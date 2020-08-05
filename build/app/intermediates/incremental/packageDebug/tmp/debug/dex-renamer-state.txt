@@ -1,0 +1,4 @@
+#Wed Aug 05 09:54:35 IST 2020
+base.0=/home/bitaashna/AndroidStudioProjects/flutter_newziappa/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
